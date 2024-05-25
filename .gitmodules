@@ -1,0 +1,12 @@
+[submodule "DevOps_Training_Self_Study_Task1"]
+	path = DevOps_Training_Self_Study_Task1
+	url = https://github.com/sonya36/DevOps_Training_Self_Study_Task1.git
+[submodule "Web-Stack-Implementation-LAMP-STACK-AWS-101-106"]
+	path = Web-Stack-Implementation-LAMP-STACK-AWS-101-106
+	url = https://github.com/sonya36/Web-Stack-Implementation-LAMP-STACK-AWS-101-106.git
+[submodule "Web-Stack-Implementation-LEMP-STACK-101-107"]
+	path = Web-Stack-Implementation-LEMP-STACK-101-107
+	url = https://github.com/sonya36/Web-Stack-Implementation-LEMP-STACK-101-107.git
+[submodule "Web-Stack-Implementation-MERN-STACK-101-108"]
+	path = Web-Stack-Implementation-MERN-STACK-101-108
+	url = https://github.com/sonya36/Web-Stack-Implementation-MERN-STACK-101-108.git
