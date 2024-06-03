@@ -10,3 +10,6 @@
 [submodule "Web-Stack-Implementation-MERN-STACK-101-108"]
 	path = Web-Stack-Implementation-MERN-STACK-101-108
 	url = https://github.com/sonya36/Web-Stack-Implementation-MERN-STACK-101-108.git
+[submodule "Web-Stack-Implementation-MEAN-STACK-101-105"]
+	path = Web-Stack-Implementation-MEAN-STACK-101-105
+	url = https://github.com/sonya36/Web-Stack-Implementation-MEAN-STACK-101-105.git
