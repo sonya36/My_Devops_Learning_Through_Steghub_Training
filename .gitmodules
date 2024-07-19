@@ -16,3 +16,6 @@
 [submodule "Client_Server_Architecture_with_MySQL_101-102"]
 	path = Client_Server_Architecture_with_MySQL_101-102
 	url = https://github.com/sonya36/Client_Server_Architecture_with_MySQL_101-102.git
+[submodule "Web_Solution_With_Wordpress"]
+	path = Web_Solution_With_Wordpress
+	url = https://github.com/sonya36/Web_Solution_With_Wordpress.git
