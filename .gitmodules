@@ -13,3 +13,6 @@
 [submodule "Web-Stack-Implementation-MEAN-STACK-101-105"]
 	path = Web-Stack-Implementation-MEAN-STACK-101-105
 	url = https://github.com/sonya36/Web-Stack-Implementation-MEAN-STACK-101-105.git
+[submodule "Client_Server_Architecture_with_MySQL_101-102"]
+	path = Client_Server_Architecture_with_MySQL_101-102
+	url = https://github.com/sonya36/Client_Server_Architecture_with_MySQL_101-102.git
