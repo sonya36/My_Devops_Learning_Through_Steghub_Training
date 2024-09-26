@@ -19,3 +19,24 @@
 [submodule "Web_Solution_With_Wordpress"]
 	path = Web_Solution_With_Wordpress
 	url = https://github.com/sonya36/Web_Solution_With_Wordpress.git
+[submodule "Devops_Tooling_Website_Solution_101_103"]
+	path = Devops_Tooling_Website_Solution_101_103
+	url = https://github.com/sonya36/Devops_Tooling_Website_Solution_101_103.git
+[submodule "LoadBalancer_Solution_With_Apache_101_103"]
+	path = LoadBalancer_Solution_With_Apache_101_103
+	url = https://github.com/sonya36/LoadBalancer_Solution_With_Apache_101_103.git
+[submodule "Load_balancer_solution_with_Nginx_and_SSL-TLS"]
+	path = Load_balancer_solution_with_Nginx_and_SSL-TLS
+	url = https://github.com/sonya36/Load_balancer_solution_with_Nginx_and_SSL-TLS.git
+[submodule "Tooling_Website_Deploymeny_with_CI_Jenkins"]
+	path = Tooling_Website_Deploymeny_with_CI_Jenkins
+	url = https://github.com/sonya36/Tooling_Website_Deploymeny_with_CI_Jenkins.git
+[submodule "Ansible_Configuration_Management_Automate_Project_7_10"]
+	path = Ansible_Configuration_Management_Automate_Project_7_10
+	url = https://github.com/sonya36/Ansible_Configuration_Management_Automate_Project_7_10.git
+[submodule "ansible-config-mgt"]
+	path = ansible-config-mgt
+	url = https://github.com/sonya36/ansible-config-mgt.git
+[submodule "Ansible_Refactoring_Static_Assignments_Imports_and_Roles"]
+	path = Ansible_Refactoring_Static_Assignments_Imports_and_Roles
+	url = https://github.com/sonya36/Ansible_Refactoring_Static_Assignments_Imports_and_Roles.git
